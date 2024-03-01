@@ -1,3 +1,6 @@
+✨ _**Update (Mar 1, 2024):**_
+Introduce **OpenKYC Community Project**, build your own eKYC solution and contribute at this [Github Repo](https://github.com/FaceOnLive/OpenKYC), try at [HuggingFace Space](https://huggingface.co/spaces/FaceOnLive/OpenKYC).
+
 ✨ Update: Our API portal is now live, offering free APIs for various AI solutions, including face recognition, liveness detection, and ID document recognition.
 Make sure to check it out at https://getapi.faceonlive.com and take advantage of our free offerings.
 <h1 align="center">On-Premise DeepFake Detection SDK <br/>For ID Verification, eKYC, Customer Onboarding</h1>
