@@ -1,17 +1,21 @@
-✨ _**Update (Mar 1, 2024):**_
-Introduce **OpenKYC Community Project**, build your own eKYC solution and contribute at this [Github Repo](https://github.com/FaceOnLive/OpenKYC), try at [HuggingFace Space](https://huggingface.co/spaces/FaceOnLive/OpenKYC).
-
-✨ Update: Our API portal is now live, offering free APIs for various AI solutions, including face recognition, liveness detection, and ID document recognition.
-Make sure to check it out at https://getapi.faceonlive.com and take advantage of our free offerings.
+<div align="center">
+  <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA">Slack</a>
+    ·
+   <a href="https://www.faceonlive.com/">Website</a>
+    ·
+   <a href="https://portfolio.faceonlive.com">Portfolio</a>  
+    ·
+    <a href="https://www.huggingface.co/FaceOnLive">Hugging Face</a>
+    ·
+    <a href="https://getapi.faceonlive.com">Free APIs</a>
+    ·
+    <a href="https://github.com/FaceOnLive/OpenKYC">OpenKYC</a>  
+    ·
+    <a href="https://github.com/FaceOnLive/Mask-Face-Attendance-App-Flutter">Face Attendance</a>  
+    ·
+    <a href="mailto:contact@faceonlive.com">Contact</a>
+</div>
 <h1 align="center">On-Premise DeepFake Detection SDK <br/>For ID Verification, eKYC, Customer Onboarding</h1>
-
-
-<p align="center">
-<a target="_blank" href="mailto:contact@faceonlive.com"><img src="https://img.shields.io/badge/email-contact@faceonlive.com-blue.svg?logo=gmail " alt="www.faceonlive.com"></a>&emsp;
-<a target="_blank" href="https://t.me/faceonlive"><img src="https://img.shields.io/badge/telegram-@faceonlive-blue.svg?logo=telegram " alt="www.faceonlive.com"></a>&emsp;
-<a target="_blank" href="https://wa.me/+17074043606"><img src="https://img.shields.io/badge/whatsapp-faceonlive-blue.svg?logo=whatsapp " alt="www.faceonlive.com"></a>&emsp;
-<a target="_blank" href="https://huggingface.co/spaces/FaceOnLive/Face-Liveness-Detection-SDK"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" alt="www.faceonlive.com"></a>
-</p>
 
 Is your ID Verification Solution secure against DeepFake Attacks?
 
@@ -25,9 +29,7 @@ He spoofed well-known ID Verification Software from iProov, BioID, Sum & Substan
 
 We #faceonlive developed a robust #deepfake detection solution and integrated it into our on-premise liveness solution.
 
-Please try it out on our Portfolio website. (No sign-up required)
-
-https://portfolio.faceonlive.com/#server_sdks/server/liv
+Please try it out on our [Portfolio website](https://portfolio.faceonlive.com/#server_sdks/server/liv). (No sign-up required)
 
 Integrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces) using [Gradio](https://github.com/gradio-app/gradio). Try out the Web Demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/FaceOnLive/Face-Liveness-Detection-SDK)
 
