@@ -29,9 +29,7 @@ He spoofed well-known ID Verification Software from iProov, BioID, Sum & Substan
 
 We #faceonlive developed a robust #deepfake detection solution and integrated it into our on-premise liveness solution.
 
-Please try it out on our [Portfolio website](https://portfolio.faceonlive.com/#server_sdks/server/liv). (No sign-up required)
-
-Integrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces) using [Gradio](https://github.com/gradio-app/gradio). Try out the Web Demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/FaceOnLive/Deepfake-Detector)
+Try out the Huggingface Demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/FaceOnLive/Deepfake-Detector)
 
 ![1](https://user-images.githubusercontent.com/91896009/186431454-7c793824-35bf-43c9-b877-7a98b5af2f17.jpg)
 ![2](https://user-images.githubusercontent.com/91896009/186431468-76b6f914-dc39-4dbd-96bc-d82847a6db7d.jpg)
